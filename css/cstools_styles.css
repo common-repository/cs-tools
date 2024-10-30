@@ -1,0 +1,61 @@
+.cstools-next-services {
+font-size: 1.2em;
+border: solid;
+border-color: #bcb; 
+margin : 10px 30px;
+border-width: 2px;
+padding: 0.5em;
+background-color: #f4fff4;
+}
+
+.cstools-next-services h2 { text-align : center;}
+.cstools-next-services .service-date , .cstools-next-services .lesson-subject { font-weight : 900;}
+
+.textwidget .cstools-next-services {margin : 0px 0px; padding : 4px;} 
+
+
+.event-date { float:left;
+              padding : 0px; margin:  10px;
+              border : solid 1px;
+              border-top : dotted 2px;
+		font-size:70%;
+		line-height: 120%;
+ 		text-align : center;
+              background : #ffc; }
+.event-year {background : #f00; display:block; font-weight : bold; color:#fff;}
+.event-dayname {display:block; padding: 2px 0px 0px 0px;}
+.event-day { display:block; font-size: 175%;  margin:2px 6px 5px 5px;} 
+.event-month {background : #f00; padding: 0px 5px; display:block; font-weight:900; color: #fff;} 
+
+.event-title { padding-top: 25px; display: block; background;}
+.event-title h2 {background : #eee; clear : right}
+.event-header {clear:both;}
+.event-content {padding-left : 90px;}
+
+.event-content .more-link {background : #ffb; padding-left : 5px; border-bottom: 2px #f00 solid; clear : right; float : right; margin-bottom: 20px;} 
+
+
+
+
+
+
+
+
+.csquote {background : #777; margin : 20px 70px;}
+.shquote, .biblequote {background : #ffd; position : relative; top:-7px; left: -7px; padding : 10px; border : 1px #000 solid;}
+.csquote .qatt {background : #ee8; display: block; position :relative; 
+                width : 45%; right: -10px;  margin : 10px 0px 10px auto; padding :  5px 10px}
+                
+.csquote a {white-space : nowrap;}               
+
+#candcholder { position : absolute; top : 0px ; width : 100% } 
+#CrossAndCrown {position : relative; width: 980px;  margin-left: auto; margin-right: auto; background : #f0f; } 
+
+
+.sundayschoolrota TD {border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+}
+
+.sundayschoolrota TD:first-child, .sundayschoolrota TR:first-child {background : #C1DAD7;)
+
+#rss-3{ background: #e8f url{http://www.scarboroughchristianscience.org.uk/wp-content/plugins/toolsforcsbranches/dailylift.jpg) no-repeat;}

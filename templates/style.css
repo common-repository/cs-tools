@@ -1,0 +1,21 @@
+/*
+Theme Name: Child-theme TwentyTen
+Theme URI:
+Description: Child Theme v2 for CSS Scarborough to work with csplugins v0.6
+Author: Daniel Scott 
+Author URI:
+Template: twentyten
+Version: 0.2
+*/
+ 
+@import url("../twentyten/style.css");
+
+.category-members, .category-rr-1, .category-minutes, .category-rr-t, .category-house, .category-rotas, .category-correspondence, .category-boardmtg,
+ .category-membersmtg  {background : #ffdeff;}
+.category-ss-i {background : #eff;}
+
+#menu-item-631 {background : #55b;}
+
+#candc {position : relative; clear : both;} 
+#CrossAndCrown { float: left; position:absolute; top:-195px; left : 15px; z-index:99; background: #F3F6ED; padding :3px;  border : 5px #777 solid; height:170px;
+}
